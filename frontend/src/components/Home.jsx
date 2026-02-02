@@ -12,7 +12,7 @@ const Home = () => {
     <>
       <header className='shadow'>
         <div className='bg-dark text-center py-3'>
-          <span className='text-white'>Your Fashion partner is this</span>
+          <span className='text-white'>Your Fashion partner is Our Store</span>
         </div>
 
         <div className='container'>
