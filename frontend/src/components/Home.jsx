@@ -29,7 +29,9 @@ const Home = () => {
                 <Nav.Link href="#action1">Mens</Nav.Link>
                 <Nav.Link href="#action2">Womens</Nav.Link>
                 <Nav.Link href="#action3">Kids</Nav.Link>
-                <Nav.Link href="#action3">Boys</Nav.Link>
+                <Nav.Link href="#action4">Boys</Nav.Link>
+                <Nav.Link href="#action5">Watches</Nav.Link>
+
               </Nav>
               <div className='nav-right d-flex'>
                 <a href="" className='ms-3'>
