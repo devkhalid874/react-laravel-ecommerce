@@ -31,8 +31,9 @@ const Home = () => {
                 <Nav.Link href="#action3">Kids</Nav.Link>
                 <Nav.Link href="#action4">Boys</Nav.Link>
                 <Nav.Link href="#action5">Watches</Nav.Link>
-                 <Nav.Link href="#action5">Electronics</Nav.Link>
-
+                <Nav.Link href="#action5">Electronics</Nav.Link>
+                <Nav.Link href="#action6">Toys</Nav.Link>
+              
 
               </Nav>
               <div className='nav-right d-flex'>
