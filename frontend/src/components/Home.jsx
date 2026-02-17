@@ -33,7 +33,8 @@ const Home = () => {
                 <Nav.Link href="#action5">Watches</Nav.Link>
                 <Nav.Link href="#action5">Electronics</Nav.Link>
                 <Nav.Link href="#action6">Toys</Nav.Link>
-                   <Nav.Link href="#action6">Laptops</Nav.Link>
+                <Nav.Link href="#action6">Laptops</Nav.Link>
+                <Nav.Link href="#action6">Harware</Nav.Link>
               
 
               </Nav>
