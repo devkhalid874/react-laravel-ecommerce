@@ -15,6 +15,8 @@ export const Shop = () => {
         <br />
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur praesentium labore sit aperiam vitae? Tenetur tempore maxime voluptate ab recusandae.
       </p>
+      <br />
+      Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quaerat, laudantium?
     </div>
   )
 }
