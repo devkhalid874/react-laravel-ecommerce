@@ -10,6 +10,7 @@ export const Shop = () => {
         Lorem ipsum, dolor sit amet consectetur adipisicing elit. Est, dolore?
         lorem
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima ipsam esse laboriosam perferendis tempore alias exercitationem laudantium debitis earum iusto?
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias repudiandae corrupti omnis odit, id doloremque expedita nostrum eum voluptatem reiciendis!
         <br />
         Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veritatis, molestiae.
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, aliquid.
