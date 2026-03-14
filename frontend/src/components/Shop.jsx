@@ -24,6 +24,7 @@ export const Shop = () => {
         <br />
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur praesentium labore sit aperiam vitae? Tenetur tempore maxime voluptate ab recusandae.
       </p>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, autem?
       <br />
       Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quaerat, laudantium?
       <br />
