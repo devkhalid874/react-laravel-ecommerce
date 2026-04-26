@@ -50,6 +50,7 @@ export const Shop = () => {
       <br />
       Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum perspiciatis, illo incidunt voluptatibus et nulla debitis inventore modi ipsam temporibus.
       <br />
+      Lorem, ipsum.
       Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ipsum, veritatis?
       Lorem ipsum dolor sit amet consectetur, adipisicing elit. Doloribus ullam voluptate commodi officia magnam vero ex inventore aperiam maiores corporis.
       Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, nobis!
