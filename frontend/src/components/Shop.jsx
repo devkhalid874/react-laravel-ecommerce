@@ -4,7 +4,8 @@ export const Shop = () => {
   return (
     <div>
       <h2>Shop Page</h2>
-      <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Earum quos corrupti alias aliquam quasi, assumenda voluptas porro enim harum impedit.</p>
+
+      <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Omnis, quis?Lorem ipsum dolor sit, amet consectetur adipisicing elit. Earum quos corrupti alias aliquam quasi, assumenda voluptas porro enim harum impedit.</p>
       <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Blanditiis praesentium ex dolores ullam tempore laborum officia nihil. Libero maiores veniam, illo laudantium, mollitia repellat blanditiis consequatur voluptatibus ullam minima natus ad, recusandae quisquam nobis suscipit. Debitis aspernatur ratione ut quibusdam excepturi exercitationem! Deserunt, suscipit nobis recusandae harum voluptatibus esse magnam quod magni distinctio, eum inventore laboriosam, iste necessitatibus a voluptas? Vitae maxime incidunt provident temporibus? Ipsum adipisci commodi repellendus quas qui enim vitae, obcaecati quam magni quis dolorem. Architecto placeat, ipsum nobis cumque dolor nisi exercitationem soluta alias quidem adipisci mollitia modi vitae omnis, maxime eaque quas. Atque, quos dolores.
         Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quibusdam deleniti labore vel, voluptates amet consequuntur voluptate molestias explicabo tempora quisquam facilis id enim! Laboriosam autem fuga, natus cum ducimus non.
         Lorem ipsum, dolor sit amet consectetur adipisicing elit. Est, dolore?
